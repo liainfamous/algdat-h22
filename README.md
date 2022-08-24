@@ -1,3 +1,3 @@
-# DATS2300 Algoritmer og datastrukturer
+### DATS2300 Algoritmer og datastrukturer
 
-## 📝 Emnesammendrag 
+#### 📝 Emnesammendrag 
